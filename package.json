@@ -1,0 +1,24 @@
+{
+  "name": "dicoding-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RosyidStania/dicoding-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RosyidStania/dicoding-express/issues"
+  },
+  "homepage": "https://github.com/RosyidStania/dicoding-express#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
